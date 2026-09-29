@@ -1,0 +1,25 @@
+{
+  "entregas": [
+    {
+      "archivo": "/img/entregas/mujer-clientas-chat.jpg",
+      "titulo": "Clientas felices",
+      "texto": "«A mi hija le encantó, 100% recomendada»",
+      "descripcion": "Captura de chat de una clienta agradeciendo su pedido",
+      "link": "https://www.instagram.com/exclusive.girl_7/"
+    },
+    {
+      "archivo": "/img/productos/mujer-poleron-crop-exclusivo-1.jpg",
+      "titulo": "Envíos a todo Chile",
+      "texto": "Te lo mandamos por la empresa que elijas",
+      "descripcion": "Polerón crop exclusivo listo para enviar",
+      "link": "https://www.instagram.com/exclusive.girl_7/"
+    },
+    {
+      "archivo": "/img/entregas/mujer-ofertas.jpg",
+      "titulo": "Ofertas desde $7.000",
+      "texto": "Chiquillas, liquidamos para traer stock nuevo",
+      "descripcion": "Reel de ofertas de Exclusive Girl",
+      "link": "https://www.instagram.com/reel/DMy3YGdONBQ/"
+    }
+  ]
+}

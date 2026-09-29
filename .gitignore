@@ -1,0 +1,7 @@
+# Generados por scripts/build.mjs
+dist/
+data/catalogo-*.json
+.vercel
+
+# Dependencias (Vercel las instala en cada build)
+node_modules/

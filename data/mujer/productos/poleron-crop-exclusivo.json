@@ -1,0 +1,25 @@
+{
+  "nombre": "Polerón crop exclusivo",
+  "precio": 25000,
+  "foto": "/img/productos/mujer-poleron-crop-exclusivo-1.jpg",
+  "fotos": [
+    "/img/productos/mujer-poleron-crop-exclusivo-2.jpg",
+    "/img/productos/mujer-poleron-crop-exclusivo-3.jpg"
+  ],
+  "descripcion": "Polerón corto ajustado, ideal con jeans tiro alto. Elige el modelo en la ficha.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [
+    "Brillos",
+    "A|X Armani",
+    "Armani relieve"
+  ],
+  "mayor": [],
+  "etiqueta": "Nuevo ingreso",
+  "orden": 10,
+  "agotado": false,
+  "visible": true
+}

@@ -1,0 +1,18 @@
+{
+  "nombre": "Vestido exclusivo estampado",
+  "precio": 20000,
+  "foto": "/img/productos/mujer-vestido-exclusivo-estampado-1.jpg",
+  "fotos": [],
+  "descripcion": "Vestido corto ajustado con estampado de letras.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 70,
+  "agotado": false,
+  "visible": true
+}

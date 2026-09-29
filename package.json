@@ -1,0 +1,15 @@
+{
+  "name": "exclusive-store-7",
+  "private": true,
+  "description": "Exclusive Store 7: 2 tiendas (hombre y mujer) en un sitio estático + panel /admin. El build optimiza las fotos con sharp.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "sharp": "^0.34.4"
+  }
+}

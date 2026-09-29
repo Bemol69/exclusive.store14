@@ -1,0 +1,18 @@
+{
+  "nombre": "Vestido ajustable",
+  "precio": 20000,
+  "foto": "/img/productos/mujer-vestido-ajustable-1.jpg",
+  "fotos": [],
+  "descripcion": "Vestido negro fruncido con amarras para ajustar el largo.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 100,
+  "agotado": false,
+  "visible": true
+}

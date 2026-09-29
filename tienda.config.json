@@ -1,0 +1,73 @@
+{
+  "_ayuda": "Datos fijos de la tienda (los define el desarrollador). Son 2 tiendas en una web: /hombre y /mujer, con portada para elegir en /. Lo que edita el cliente va en data/ (panel /admin).",
+  "nombre": "Exclusive Store 7",
+  "seo_titulo": "Exclusive Store 7 · Ropa de marca para hombre y mujer",
+  "seo_descripcion": "Conjuntos, polerones y chaquetas de marca para hombre, y moda full tendencia para mujer. Al detalle y por mayor, con envíos a todo Chile.",
+  "github_repo": "Bemol69/exclusive.store14",
+  "site_url": "https://exclusive-store14.vercel.app",
+  "google_verificacion": "",
+  "tiendas": {
+    "hombre": {
+      "nombre": "Exclusive Store",
+      "etiqueta": "Hombre",
+      "rubro": "Ropa de marca para hombre, al detalle y por mayor",
+      "schema_tipo": "ClothingStore",
+      "seo_titulo": "Exclusive Store · Conjuntos y polerones de marca, detalle y por mayor",
+      "seo_descripcion": "Conjuntos EA7, Armani Exchange, Jordan y Nike Tech, polerones bordados 3D y chaquetas reflectantes. Precio por mayor desde 5 unidades y envíos a todo Chile.",
+      "logo": "img/logo-hombre.jpg",
+      "prefijo_pedido": "EXH",
+      "emoji": "🥇",
+      "hero": [
+        {
+          "foto": "img/productos/hombre-chaqueta-nike-reflectante-1.jpg",
+          "alt": "Chaqueta Nike reflectante puesta"
+        },
+        {
+          "foto": "img/productos/hombre-conjunto-ea7-napoli-1.jpg",
+          "alt": "Conjunto EA7 Napoli negro con logo azul"
+        },
+        {
+          "foto": "img/productos/hombre-conjunto-jordan-franja-1.jpg",
+          "alt": "Conjunto Jordan con franja roja y blanca"
+        }
+      ],
+      "fuentes": {
+        "titulos": "Big Shoulders Display",
+        "titulos_pesos": "700;800;900",
+        "texto": "Manrope",
+        "extra": "Bagel+Fat+One"
+      }
+    },
+    "mujer": {
+      "nombre": "Exclusive Girl",
+      "etiqueta": "Mujer",
+      "rubro": "Tienda femenina: moda full tendencia",
+      "schema_tipo": "ClothingStore",
+      "seo_titulo": "Exclusive Girl · Tops, conjuntos y vestidos full tendencia",
+      "seo_descripcion": "Crop tops, polerones crop, conjuntos, vestidos y enteritos full tendencia desde $12.000. Tienda femenina con envíos a todo Chile.",
+      "logo": "img/logo-mujer.jpg",
+      "prefijo_pedido": "EXG",
+      "emoji": "🎀",
+      "hero": [
+        {
+          "foto": "img/productos/mujer-poleron-crop-exclusivo-2.jpg",
+          "alt": "Polerón crop Armani Exchange negro"
+        },
+        {
+          "foto": "img/productos/mujer-crop-top-brillos-1.jpg",
+          "alt": "Crop top de brillos con falda blanca de ecocuero"
+        },
+        {
+          "foto": "img/productos/mujer-enterito-tendencia-2.jpg",
+          "alt": "Enterito tendencia color beige"
+        }
+      ],
+      "fuentes": {
+        "titulos": "Bagel Fat One",
+        "titulos_pesos": "400",
+        "texto": "DM Sans",
+        "extra": "Big+Shoulders+Display:wght@800"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "nombre": "Crop top corsé",
+  "precio": 18000,
+  "foto": "/img/productos/mujer-crop-top-corse-1.jpg",
+  "fotos": [],
+  "descripcion": "Top corsé negro con transparencias y copa marcada.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 20,
+  "agotado": false,
+  "visible": true
+}

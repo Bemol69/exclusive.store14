@@ -1,0 +1,25 @@
+{
+  "entregas": [
+    {
+      "archivo": "/img/entregas/hombre-entrega-auto.jpg",
+      "titulo": "Día de entregas",
+      "texto": "Pedidos entregados en mano",
+      "descripcion": "Cliente recibiendo su pedido en el auto",
+      "link": "https://www.instagram.com/reel/DdR5DoapTr3/"
+    },
+    {
+      "archivo": "/img/entregas/hombre-cliente-frecuente.jpg",
+      "titulo": "Cliente frecuente",
+      "texto": "Vuelven y compran por mayor",
+      "descripcion": "Entrega de bolsas con pedido por mayor a un cliente frecuente",
+      "link": "https://www.instagram.com/reel/DdPxtc0pMGA/"
+    },
+    {
+      "archivo": "/img/entregas/hombre-entrega-presencial.jpg",
+      "titulo": "Entregas presenciales",
+      "texto": "Full activos toda la semana",
+      "descripcion": "Pedido embolsado listo para entregar",
+      "link": "https://www.instagram.com/reel/DdaHHbzJUjH/"
+    }
+  ]
+}

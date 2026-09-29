@@ -1,0 +1,21 @@
+{
+  "nombre": "Polerón Jordan · Cierre",
+  "precio": 25000,
+  "foto": "/img/productos/hombre-poleron-jordan-cierre-1.jpg",
+  "fotos": [
+    "/img/productos/hombre-poleron-jordan-cierre-2.jpg"
+  ],
+  "descripcion": "Polerón con cierre, capucha y detalles rojos.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 90,
+  "agotado": false,
+  "visible": true
+}

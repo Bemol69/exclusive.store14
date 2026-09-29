@@ -1,0 +1,21 @@
+{
+  "nombre": "Polerón parche engomado",
+  "precio": 25000,
+  "foto": "/img/productos/hombre-poleron-parche-engomado-1.jpg",
+  "fotos": [
+    "/img/productos/hombre-poleron-parche-engomado-2.jpg"
+  ],
+  "descripcion": "Polerón canguro con parche engomado brillante al frente.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 40,
+  "agotado": false,
+  "visible": true
+}

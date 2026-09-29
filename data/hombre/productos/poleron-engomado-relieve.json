@@ -1,0 +1,21 @@
+{
+  "nombre": "Polerón engomado · Logo en relieve",
+  "precio": 25000,
+  "foto": "/img/productos/hombre-poleron-engomado-relieve-1.jpg",
+  "fotos": [
+    "/img/productos/hombre-poleron-engomado-relieve-2.jpg"
+  ],
+  "descripcion": "Polerón canguro con capucha y logo engomado negro sobre negro.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 30,
+  "agotado": false,
+  "visible": true
+}

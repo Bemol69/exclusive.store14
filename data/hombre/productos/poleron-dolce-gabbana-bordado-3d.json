@@ -1,0 +1,38 @@
+{
+  "nombre": "Polerón Dolce & Gabbana · Bordado 3D",
+  "precio": 20000,
+  "foto": "/img/productos/hombre-poleron-dolce-gabbana-bordado-3d-1.jpg",
+  "fotos": [
+    "/img/productos/hombre-poleron-dolce-gabbana-bordado-3d-2.jpg"
+  ],
+  "descripcion": "Polerón cuello redondo con logo bordado en relieve 3D.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [
+    {
+      "desde": 5,
+      "precio": 15000
+    },
+    {
+      "desde": 10,
+      "precio": 14000
+    },
+    {
+      "desde": 20,
+      "precio": 13000
+    },
+    {
+      "desde": 50,
+      "precio": 12000
+    }
+  ],
+  "etiqueta": "Por mayor",
+  "orden": 60,
+  "agotado": false,
+  "visible": true
+}

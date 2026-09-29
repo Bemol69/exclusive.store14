@@ -1,0 +1,36 @@
+{
+  "nombre": "Polerón Emporio Armani · Bordado 3D",
+  "precio": 20000,
+  "foto": "/img/productos/hombre-poleron-emporio-armani-bordado-3d-1.jpg",
+  "fotos": [],
+  "descripcion": "Polerón cuello redondo con águila Emporio Armani bordada en 3D.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [
+    {
+      "desde": 5,
+      "precio": 15000
+    },
+    {
+      "desde": 10,
+      "precio": 14000
+    },
+    {
+      "desde": 20,
+      "precio": 13000
+    },
+    {
+      "desde": 50,
+      "precio": 12000
+    }
+  ],
+  "etiqueta": "Por mayor",
+  "orden": 70,
+  "agotado": false,
+  "visible": true
+}

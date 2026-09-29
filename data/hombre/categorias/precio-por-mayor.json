@@ -1,0 +1,10 @@
+{
+  "nombre": "Precio por mayor",
+  "productos": [
+    "conjunto-nike-tech-reflectante",
+    "poleron-dolce-gabbana-bordado-3d",
+    "poleron-emporio-armani-bordado-3d"
+  ],
+  "orden": 40,
+  "visible": true
+}

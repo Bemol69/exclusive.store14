@@ -1,0 +1,36 @@
+{
+  "nombre": "Conjunto Nike Tech · Reflectante",
+  "precio": 30000,
+  "foto": "/img/productos/hombre-conjunto-nike-tech-reflectante-1.jpg",
+  "fotos": [],
+  "descripcion": "Conjunto con franjas reflectantes que brillan de noche. Precio por mayor desde 5 unidades.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [
+    {
+      "desde": 5,
+      "precio": 24000
+    },
+    {
+      "desde": 10,
+      "precio": 23000
+    },
+    {
+      "desde": 20,
+      "precio": 22000
+    },
+    {
+      "desde": 50,
+      "precio": 21000
+    }
+  ],
+  "etiqueta": "Por mayor",
+  "orden": 50,
+  "agotado": false,
+  "visible": true
+}

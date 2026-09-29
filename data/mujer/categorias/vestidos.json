@@ -1,0 +1,10 @@
+{
+  "nombre": "Vestidos y enteritos",
+  "productos": [
+    "vestido-exclusivo-estampado",
+    "enterito-tendencia",
+    "vestido-ajustable"
+  ],
+  "orden": 30,
+  "visible": true
+}

@@ -1,0 +1,14 @@
+{
+  "titulo": "Bienvenida familia 10%",
+  "tienda": "hombre",
+  "codigo": "FAMILIA10",
+  "tipo": "porcentaje",
+  "valor": 10,
+  "categorias_hombre": [],
+  "productos_hombre": [],
+  "categorias_mujer": [],
+  "productos_mujer": [],
+  "minimo": 0,
+  "vence": "",
+  "activo": true
+}

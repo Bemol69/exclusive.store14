@@ -1,0 +1,11 @@
+{
+  "nombre": "Conjuntos",
+  "productos": [
+    "conjunto-ea7-napoli",
+    "conjunto-armani-exchange",
+    "conjunto-nike-tech-reflectante",
+    "conjunto-jordan-franja"
+  ],
+  "orden": 10,
+  "visible": true
+}

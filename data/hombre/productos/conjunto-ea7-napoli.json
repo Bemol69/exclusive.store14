@@ -1,0 +1,22 @@
+{
+  "nombre": "Conjunto EA7 · Napoli",
+  "precio": 35000,
+  "foto": "/img/productos/hombre-conjunto-ea7-napoli-1.jpg",
+  "fotos": [
+    "/img/productos/hombre-conjunto-ea7-napoli-2.jpg",
+    "/img/productos/hombre-conjunto-ea7-napoli-3.jpg"
+  ],
+  "descripcion": "Polerón con cierre y capucha + pantalón jogger. Edición SSC Napoli con logo azul.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "Nuevo ingreso",
+  "orden": 10,
+  "agotado": false,
+  "visible": true
+}

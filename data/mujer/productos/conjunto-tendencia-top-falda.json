@@ -1,0 +1,18 @@
+{
+  "nombre": "Conjunto tendencia · Top + falda",
+  "precio": 20000,
+  "foto": "/img/productos/mujer-conjunto-tendencia-top-falda-1.jpg",
+  "fotos": [],
+  "descripcion": "Crop top + falda. Por separado: top $12.000 y falda $10.000.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 60,
+  "agotado": false,
+  "visible": true
+}

@@ -1,0 +1,22 @@
+{
+  "nombre": "Chaqueta Nike · Reflectante",
+  "precio": 25000,
+  "foto": "/img/productos/hombre-chaqueta-nike-reflectante-1.jpg",
+  "fotos": [
+    "/img/productos/hombre-chaqueta-nike-reflectante-2.jpg",
+    "/img/productos/hombre-chaqueta-nike-reflectante-3.jpg"
+  ],
+  "descripcion": "Chaqueta acolchada liviana con swoosh reflectante.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 100,
+  "agotado": false,
+  "visible": true
+}

@@ -1,0 +1,25 @@
+{
+  "nombre": "Enterito tendencia",
+  "precio": 25000,
+  "foto": "/img/productos/mujer-enterito-tendencia-1.jpg",
+  "fotos": [
+    "/img/productos/mujer-enterito-tendencia-2.jpg",
+    "/img/productos/mujer-enterito-tendencia-3.jpg"
+  ],
+  "descripcion": "Enterito ajustado de una pieza. Elige el color en la ficha.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [
+    "Negro",
+    "Beige",
+    "Negro texturado"
+  ],
+  "mayor": [],
+  "etiqueta": "Nuevo ingreso",
+  "orden": 90,
+  "agotado": false,
+  "visible": true
+}

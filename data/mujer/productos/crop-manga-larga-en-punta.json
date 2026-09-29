@@ -1,0 +1,18 @@
+{
+  "nombre": "Crop manga larga en punta",
+  "precio": 15000,
+  "foto": "/img/productos/mujer-crop-manga-larga-en-punta-1.jpg",
+  "fotos": [],
+  "descripcion": "Crop negro de manga larga con corte en punta.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 40,
+  "agotado": false,
+  "visible": true
+}

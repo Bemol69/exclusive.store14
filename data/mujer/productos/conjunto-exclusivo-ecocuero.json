@@ -1,0 +1,23 @@
+{
+  "nombre": "Conjunto exclusivo · Pantalón ecocuero",
+  "precio": 30000,
+  "foto": "/img/productos/mujer-conjunto-exclusivo-ecocuero-1.jpg",
+  "fotos": [
+    "/img/productos/mujer-conjunto-exclusivo-ecocuero-2.jpg"
+  ],
+  "descripcion": "Top + pantalón de ecocuero fruncido. Elige el top en la ficha.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [
+    "Top negro",
+    "Top blanco"
+  ],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 80,
+  "agotado": false,
+  "visible": true
+}

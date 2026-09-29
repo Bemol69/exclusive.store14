@@ -1,0 +1,22 @@
+{
+  "nombre": "Conjunto Jordan · Franja",
+  "precio": 40000,
+  "foto": "/img/productos/hombre-conjunto-jordan-franja-1.jpg",
+  "fotos": [
+    "/img/productos/hombre-conjunto-jordan-franja-2.jpg",
+    "/img/productos/hombre-conjunto-jordan-franja-3.jpg"
+  ],
+  "descripcion": "Polerón con capucha y franja roja/blanca + pantalón con franja lateral.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 80,
+  "agotado": false,
+  "visible": true
+}

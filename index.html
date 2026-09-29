@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!-- Portada: elegir entre la tienda de hombre (/hombre/) y la de mujer (/mujer/). La completa scripts/build.mjs. -->
+<html lang="es-CL" data-tienda="portada">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#070b14">
+  <title>%%SEO_TITULO%%</title>
+  <meta name="description" content="%%SEO_DESCRIPCION%%">
+  <!-- SEO:HEAD (lo completa scripts/build.mjs) -->
+  <link rel="icon" href="%%H_LOGO%%">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="%%FUENTES_URL%%">
+  <link rel="stylesheet" href="/styles.css">
+  <script>document.documentElement.classList.add('js')</script>
+</head>
+<body class="door">
+  <h1 class="sr-only">%%NOMBRE%%: elige tu tienda</h1>
+  <main class="door__split">
+    <a class="door__half door__half--h" href="/hombre/" data-door="hombre">
+      <img class="door__img" src="%%H_FOTO%%" alt="%%H_FOTO_ALT%%" fetchpriority="high">
+      <span class="door__tape" aria-hidden="true"></span>
+      <span class="door__copy">
+        <small>@%%H_INSTAGRAM%% · %%H_SEGUIDORES%% seguidores</small>
+        <strong>Hombre</strong>
+        <span>Conjuntos, polerones y chaquetas de marca · detalle y por mayor</span>
+        <em>Entrar a %%H_NOMBRE%% →</em>
+      </span>
+    </a>
+    <a class="door__half door__half--m" href="/mujer/" data-door="mujer">
+      <img class="door__img" src="%%M_FOTO%%" alt="%%M_FOTO_ALT%%">
+      <span class="door__bulbs" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span>
+      <span class="door__copy">
+        <small>@%%M_INSTAGRAM%% · tienda femenina 🎀</small>
+        <strong>Mujer</strong>
+        <span>Tops, conjuntos y vestidos full tendencia · desde %%M_DESDE%%</span>
+        <em>Entrar a %%M_NOMBRE%% →</em>
+      </span>
+    </a>
+    <div class="door__seal" aria-hidden="true">
+      <svg viewBox="0 0 200 260"><path class="crown" d="M40 58 62 76l38-50 38 50 22-18-10 44H50Z"/><path class="seven" d="M36 118h132l-70 136H62l62-104H36Z"/></svg>
+      <span>Exclusive</span>
+    </div>
+  </main>
+  <p class="door__foot">%%ENVIOS%% · <a href="https://www.instagram.com/runclickwebs/" target="_blank" rel="noopener">Web por RunClickWebs</a></p>
+  <script>
+    // Cortina del color de la tienda elegida antes de entrar (se apaga con "reducir movimiento")
+    (function () {
+      var calma = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      document.querySelectorAll('[data-door]').forEach(function (a) {
+        a.addEventListener('click', function (e) {
+          try { localStorage.setItem('ex7-modo', a.dataset.door); } catch (err) {}
+          if (calma || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
+          e.preventDefault();
+          try { sessionStorage.setItem('ex7-wipe', a.dataset.door); } catch (err) {}
+          document.body.classList.add('is-going', 'go-' + a.dataset.door);
+          setTimeout(function () { location.href = a.href; }, 520);
+        });
+      });
+      // Al volver con el botón "atrás", que la portada no quede tapada
+      window.addEventListener('pageshow', function () { document.body.classList.remove('is-going', 'go-hombre', 'go-mujer'); });
+    })();
+  </script>
+</body>
+</html>

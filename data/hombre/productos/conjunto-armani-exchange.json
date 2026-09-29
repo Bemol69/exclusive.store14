@@ -1,0 +1,22 @@
+{
+  "nombre": "Conjunto Armani Exchange",
+  "precio": 35000,
+  "foto": "/img/productos/hombre-conjunto-armani-exchange-1.jpg",
+  "fotos": [
+    "/img/productos/hombre-conjunto-armani-exchange-2.jpg",
+    "/img/productos/hombre-conjunto-armani-exchange-3.jpg"
+  ],
+  "descripcion": "Polerón canguro + pantalón con logo Armani Exchange Milano · New York.",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "Nuevo ingreso",
+  "orden": 20,
+  "agotado": false,
+  "visible": true
+}

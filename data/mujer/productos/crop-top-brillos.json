@@ -1,0 +1,18 @@
+{
+  "nombre": "Crop top brillos",
+  "precio": 15000,
+  "foto": "/img/productos/mujer-crop-top-brillos-1.jpg",
+  "fotos": [],
+  "descripcion": "Top con tiras de brillos. La falda blanca de ecocuero va aparte ($10.000): pídela en tu encargo.",
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "modelos": [],
+  "mayor": [],
+  "etiqueta": "",
+  "orden": 50,
+  "agotado": false,
+  "visible": true
+}

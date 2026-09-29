@@ -1,0 +1,12 @@
+{
+  "nombre": "Polerones",
+  "productos": [
+    "poleron-engomado-relieve",
+    "poleron-parche-engomado",
+    "poleron-dolce-gabbana-bordado-3d",
+    "poleron-emporio-armani-bordado-3d",
+    "poleron-jordan-cierre"
+  ],
+  "orden": 20,
+  "visible": true
+}
